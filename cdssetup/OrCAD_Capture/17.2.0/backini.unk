@@ -1,0 +1,5 @@
+[Footprint Viewer Type]
+Type=Allegro
+[Symbol Selector Configured Libraries]
+Library0=C:\Cadence\SPB_17.2\tools\Capture\Library\PSpice\source.olb
+Number of Configured Libraries=1
