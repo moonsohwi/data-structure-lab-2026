@@ -297,3 +297,46 @@ git remote -v
 git add .
 git commit -m"4.16"
 git push origin master
+git
+git config --global user.eamil "mgi1030@naver.com"
+git config --global uesr.email "mgi1030@naver.com"
+git config --global user.name "sohwi"
+git add abc.txt
+git add.
+git commit -m "abc 파일 생성"
+git add abc.txt
+git commit -m "abc 파일 생성"
+git add abs.txt
+git add.
+git add .
+git log
+git init
+git add .
+git commit -m "첫번째 커밋"
+git log
+git checkout 5bace45
+git commit -m "second file added"
+git init
+git add abc.txt
+git add abs.txt
+git init 
+git add .
+git init
+git add moon.txt
+git commit -m "readme 파일 생성"
+git add so.txt
+git commit -m "second file added"
+git log
+git
+git
+git init
+git
+git init
+git add .
+git commit -m "readme.txt file added"
+git log
+git add .
+git commit -m "HelloWorld.cpp file added"
+git log
+git checkout 05db216
+git checkout master
