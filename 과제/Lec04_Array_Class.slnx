@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Car_Class/Car_Class.vcxproj" />
+  <Project Path="../Complex_Class/Complex_Class.vcxproj" />
+  <Project Path="../Polynomial/Polynomial.vcxproj" />
+  <Project Path="Lec04_Array_Class.vcxproj" />
+</Solution>
